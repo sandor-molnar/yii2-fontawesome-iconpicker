@@ -1,0 +1,19 @@
+{
+  "name": "sanyisasha/yii2-fontawesome-iconpicker",
+  "description": "Iconpicker for fontawesome",
+  "type": "yii2-plugin",
+  "autoload": {
+    "psr-4": {
+      "sanyisaha\\yii2\\fontawesome\\iconpicker\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "sanyisasha",
+      "email": "molnar.sandor.benjamin@gmail.com"
+    }
+  ],
+  "require": {
+    "sanyisasha/fontawesome-iconpicker": "*"
+  }
+}
